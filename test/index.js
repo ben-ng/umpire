@@ -1,1 +1,2 @@
+require('./peano')
 require('./linalg')
