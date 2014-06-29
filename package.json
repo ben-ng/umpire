@@ -1,0 +1,35 @@
+{
+  "name": "umpire",
+  "version": "0.0.1",
+  "description": "A logical framework",
+  "main": "lib/theory",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "2.x.x"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ben-ng/umpire.git"
+  },
+  "keywords": [
+    "logic",
+    "static",
+    "type",
+    "checking",
+    "theory",
+    "parser",
+    "equational"
+  ],
+  "author": "Ben Ng <me@benng.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ben-ng/umpire/issues"
+  },
+  "homepage": "https://github.com/ben-ng/umpire"
+}
