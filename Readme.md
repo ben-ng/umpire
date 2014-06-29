@@ -1,5 +1,10 @@
 # Umpire
 
+[![Build Status](https://travis-ci.org/ben-ng/umpire.svg?branch=master)](https://travis-ci.org/ben-ng/umpire)
+
+[![browser support](https://ci.testling.com/ben_ng/umpire.png)
+](https://ci.testling.com/ben_ng/umpire)
+
 A logical framework.
 
 ## Usage
